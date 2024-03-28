@@ -1,0 +1,17 @@
+10
+Item,Weight,Value,n_items
+Tent,2.5,200,1
+Sleeping_Bag,1.8,150,1
+Cooking_Stove,1.0,100,2
+Water_Filter,0.5,80,1
+Hiking_Boots,1.2,120,1
+Flashlight,0.3,50,1
+First_Aid_Kit,0.8,70,1
+Map,0.1,10,2
+Compass,0.2,20,1
+Pocket_Knife,0.15,30,1
+Rope,0.4,40,1
+Canteen,0.3,25,1
+Solar_Charger,0.6,60,1
+Binoculars,0.7,70,1
+Notebook,0.25,15,1
